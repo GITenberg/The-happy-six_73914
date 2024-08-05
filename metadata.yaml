@@ -1,0 +1,42 @@
+_repo: The-happy-six_73914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shirley, Penn
+    alias: Clarke, Sarah Jones
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '57271'
+    url: http://www.gutenberg.org/2009/agents/57271
+description: ''
+gutenberg_issued: '2024-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73914'
+  lccn: '22005169'
+language: en
+pgterms:marc905: 20240521085837shirley
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston, MA :$bLothrop, Lee & Shepard Co., $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Silver Gate series
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Europe -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The happy six
+url: http://www.gutenberg.org/ebooks/73914
