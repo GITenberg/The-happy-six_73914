@@ -1,5 +1,8 @@
 _repo: The-happy-six_73914
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73914-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Shirley, Penn
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57271'
     url: http://www.gutenberg.org/2009/agents/57271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73914#The-happy-six
 gutenberg_issued: '2024-06-25'
 gutenberg_type: Text
 identifiers:
